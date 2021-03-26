@@ -8,7 +8,7 @@ import { Entidad } from '../models/entidad';
 })
 
 export class EntidadServices{
-    url = "http://localhost:8888/users/";
+    url = "https://backpract7.herokuapp.com/users/";
     
 
     constructor(private http: HttpClient){ }
