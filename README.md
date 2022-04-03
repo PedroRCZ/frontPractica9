@@ -1,6 +1,8 @@
 # Ser
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2. 
+
+Programming lab practice, Consumption of an API developed in Node.JS
 
 ## Development server
 
